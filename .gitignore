@@ -1,0 +1,27 @@
+# Fichier de configuration environnementale
+.env
+
+# Dossiers de l'environnement virtuel
+venv/
+.venv/
+env/
+
+# Fichiers compilés Python
+__pycache__/
+*.pyc
+
+# Configurations pour VSCode
+.vscode/
+
+# Dossiers de paquets installés
+*.egg-info/
+dist/
+build/
+
+# Fichiers de test coverage
+.coverage
+htmlcov/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
